@@ -1,0 +1,7 @@
+number number_;
+number_+=55+;
+repeat number_ times *ignore me, I am a comment*
+{
+write size and newline;  *print to screen*
+sum+=size;
+}
